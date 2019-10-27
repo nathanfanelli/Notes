@@ -49,7 +49,7 @@ Program.cs(6,49): error CS1002: ; expected [/home/treehouse/workspace/workspace.
 
 (File name, line, column, error code, and explanation.)
 
-Comments are prefaced with “//“.
+Comments are prefaced with //.
 
 C# variable naming syntax: 
 
